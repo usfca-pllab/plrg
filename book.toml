@@ -1,0 +1,6 @@
+[book]
+authors = ["Mehmet Emre"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Programming Languages Reading Group"
