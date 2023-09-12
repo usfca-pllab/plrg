@@ -1,3 +1,7 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Time & Place](./location.md)
+
+# Sessions
+
+- [9/15/22: egg](./egg.md)
