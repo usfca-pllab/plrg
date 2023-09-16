@@ -1,7 +1,8 @@
 # Summary
 
-- [Time & Place](./location.md)
+- [General Info](./location.md)
 
 # Sessions
 
-- [9/15/22: egg](./egg.md)
+- [9/15/23: egg](./egg.md)
+- [9/22/23: egglog](./egglog.md)

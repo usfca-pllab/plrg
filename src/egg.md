@@ -1,6 +1,7 @@
 # 9/15/22: egg: Fast and extensible equality saturation
 
-Mehmet Emre is going to present [egg: Fast and extensible equality saturation](https://dl.acm.org/doi/10.1145/3434304) by Willsey et al.
+Mehmet Emre is going to present [egg: Fast and extensible equality
+saturation](https://dl.acm.org/doi/10.1145/3434304) by Willsey et al.
 
 Equality saturation is a technique to convert the phase ordering problem in
 compilers (how to pick the right order of optimizations) to a numerical
@@ -11,3 +12,9 @@ using numerical optimization solvers.
 egg uses techniques from algorithm design (amortization), and order theory &
 abstract interpretation (adding lattices) to scale up equality saturation, and
 to extend it to more scenarios.
+
+Related links:
+
+- [egg's GitHub repo](https://github.com/egraphs-good/egg)
+- [egg website](https://egraphs-good.github.io/), it contains some recent tools
+  using egg.
