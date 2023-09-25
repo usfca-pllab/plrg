@@ -1,4 +1,4 @@
-# 9/22/23: egglog
+# 9/29/23: egglog
 
 Puranjai Garg is going to present
 [egglog](https://dl.acm.org/doi/10.1145/3591239), a Datalog-based approach to
