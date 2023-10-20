@@ -2,6 +2,8 @@
 
 _(Fall 2023)_
 
+**There is no reading group on 10/20.  The next reading group is on 10/27.**
+
 - Time: Fridays 5--6pm
 - Place: LS 209
 
