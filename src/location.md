@@ -1,11 +1,9 @@
 # Time & Place
 
-_(Fall 2023)_
+_(Spring 2023)_
 
-**There is no reading group on 10/20.  The next reading group is on 10/27.**
-
-- Time: Fridays 5--6pm
-- Place: LS 209
+- Time: Wednesdays 12--12:50pm
+- Place: Gleeson 220
 
 # General Resources
 
